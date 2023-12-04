@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: src.Main
+Created-By: 17.0.2 (Eclipse Adoptium)
+
