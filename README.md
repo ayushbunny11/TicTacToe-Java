@@ -25,8 +25,8 @@ Download the whole repository in your system and access the files.
 - The main.java file contains the main code to run the MyGame.java
 - The MyGame.java file contains the main source code of watever is happening in the background of the game.
 
-# IMPORTANT : Make sure you have downloaded JAVA in your system and JAVA is present in the path variable of your enviroment variables.
-#           : If you do not have JRE/JDK, please install it before running the game or the game will not function. 
+## IMPORTANT : Make sure you have downloaded JAVA in your system and JAVA is present in the path variable of your enviroment variables.
+##           : If you do not have JRE/JDK, please install it before running the game or the game will not function. 
 
 # Avengers.... Assemble!
 
