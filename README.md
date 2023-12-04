@@ -12,7 +12,7 @@ Welcome to the Avengers-themed Tic Tac Toe game implemented in Java! Immerse you
 
 ## How to Play
 
-1. Download the TicTacToe.rar file into your system.
+1. [Download the TicTacToe.rar file into your system from here ](https://drive.google.com/file/d/15zUNPm-x7y2NHjVBDvnwOrEz85lzwFX8/view?usp=sharing).
 2. Unzip the rar file.
 3. Open the TicTacToe.exe file and run the game.
 
